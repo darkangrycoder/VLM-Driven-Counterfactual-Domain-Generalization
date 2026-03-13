@@ -7,7 +7,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange.svg)](https://pytorch.org)
 [![HuggingFace](https://img.shields.io/badge/🤗-Transformers-yellow.svg)](https://huggingface.co)
-[![Colab](https://img.shields.io/badge/Google-Colab%20Ready-green.svg)](https://colab.research.google.com)
+[![Colab](https://img.shields.io/badge/Google-Colab%20Ready-green.svg)]([https://colab.research.google.com](https://colab.research.google.com/drive/157fY1uG721l8K_FiJxtLUkxldGZRTm1_?usp=sharing))
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 ---
@@ -177,7 +177,7 @@ OfficeHome (Venkateswara et al., CVPR 2017) is a standard domain generalization 
 
 **Sample images across all 4 domains and 5 classes:**
 
-![Domain Samples](results/idomain_samples.png)
+![Domain Samples](results/domain_samples.png)
 
 *Row 1: Art · Row 2: Clipart · Row 3: Product · Row 4: RealWorld — demonstrating the visual domain gap the model must bridge.*
 
